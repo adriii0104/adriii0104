@@ -1,6 +1,6 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy Adriel! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-TuNombre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/adriel-capellán-díaz-b48bb5259/)](linkedin.com/in/adriel-capellán-díaz-b48bb5259/)
+[![Linkedin Badge](https://img.shields.io/badge/-TuNombre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/adriel-capellán-díaz-b48bb5259/)](https://www.linkedin.com/in/adriel-capell%C3%A1n-d%C3%ADaz-b48bb5259/))
 [![GitHub followers](https://img.shields.io/github/followers/adriii0104?label=Sigueme&style=social)](https://github.com/adriii0104)
 
 ## ¡Bienvenidos a mi mundo Python! 🐍
